@@ -1,2 +1,3 @@
 <?php
-echo 'Olá PHP'
+echo 'Olá PHP';
+phpinfo();
